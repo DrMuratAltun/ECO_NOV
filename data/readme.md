@@ -1,0 +1,1 @@
+## Bootcampte kullanılan veri dosyaları
