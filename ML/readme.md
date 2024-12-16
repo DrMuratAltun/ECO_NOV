@@ -1,1 +1,1 @@
-
+Makine Öğrenmesi Uygulamaları
